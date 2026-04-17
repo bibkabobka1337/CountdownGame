@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u043F\u0430\u0432\\OneDrive\\Dokumente\\Countdown\\CountdownGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DB8438-B4C9-4C6B-8F61-34E6CCB0A390}|CountdownGame\\CountdownGame.csproj|c:\\users\\\u043F\u0430\u0432\\onedrive\\dokumente\\countdown\\countdowngame\\countdowngame\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DB8438-B4C9-4C6B-8F61-34E6CCB0A390}|CountdownGame\\CountdownGame.csproj|solutionrelative:countdowngame\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DB8438-B4C9-4C6B-8F61-34E6CCB0A390}|CountdownGame\\CountdownGame.csproj|c:\\users\\\u043F\u0430\u0432\\onedrive\\dokumente\\countdown\\countdowngame\\countdowngame\\views\\gameview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DB8438-B4C9-4C6B-8F61-34E6CCB0A390}|CountdownGame\\CountdownGame.csproj|solutionrelative:countdowngame\\views\\gameview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DB8438-B4C9-4C6B-8F61-34E6CCB0A390}|CountdownGame\\CountdownGame.csproj|c:\\users\\\u043F\u0430\u0432\\onedrive\\dokumente\\countdown\\countdowngame\\countdowngame\\controllers\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DB8438-B4C9-4C6B-8F61-34E6CCB0A390}|CountdownGame\\CountdownGame.csproj|solutionrelative:countdowngame\\controllers\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DB8438-B4C9-4C6B-8F61-34E6CCB0A390}|CountdownGame\\CountdownGame.csproj|c:\\users\\\u043F\u0430\u0432\\onedrive\\dokumente\\countdown\\countdowngame\\countdowngame\\controllers\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DB8438-B4C9-4C6B-8F61-34E6CCB0A390}|CountdownGame\\CountdownGame.csproj|solutionrelative:countdowngame\\controllers\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DB8438-B4C9-4C6B-8F61-34E6CCB0A390}|CountdownGame\\CountdownGame.csproj|c:\\users\\\u043F\u0430\u0432\\onedrive\\dokumente\\countdown\\countdowngame\\countdowngame\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DB8438-B4C9-4C6B-8F61-34E6CCB0A390}|CountdownGame\\CountdownGame.csproj|solutionrelative:countdowngame\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DB8438-B4C9-4C6B-8F61-34E6CCB0A390}|CountdownGame\\CountdownGame.csproj|c:\\users\\\u043F\u0430\u0432\\onedrive\\dokumente\\countdown\\countdowngame\\countdowngame\\models\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DB8438-B4C9-4C6B-8F61-34E6CCB0A390}|CountdownGame\\CountdownGame.csproj|solutionrelative:countdowngame\\models\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DB8438-B4C9-4C6B-8F61-34E6CCB0A390}|CountdownGame\\CountdownGame.csproj|c:\\users\\\u043F\u0430\u0432\\onedrive\\dokumente\\countdown\\countdowngame\\countdowngame\\models\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DB8438-B4C9-4C6B-8F61-34E6CCB0A390}|CountdownGame\\CountdownGame.csproj|solutionrelative:countdowngame\\models\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DB8438-B4C9-4C6B-8F61-34E6CCB0A390}|CountdownGame\\CountdownGame.csproj|c:\\users\\\u043F\u0430\u0432\\onedrive\\dokumente\\countdown\\countdowngame\\countdowngame\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DB8438-B4C9-4C6B-8F61-34E6CCB0A390}|CountdownGame\\CountdownGame.csproj|solutionrelative:countdowngame\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DB8438-B4C9-4C6B-8F61-34E6CCB0A390}|CountdownGame\\CountdownGame.csproj|c:\\users\\\u043F\u0430\u0432\\onedrive\\dokumente\\countdown\\countdowngame\\countdowngame\\countdowngame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F2DB8438-B4C9-4C6B-8F61-34E6CCB0A390}|CountdownGame\\CountdownGame.csproj|solutionrelative:countdowngame\\countdowngame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DB8438-B4C9-4C6B-8F61-34E6CCB0A390}|CountdownGame\\CountdownGame.csproj|c:\\users\\\u043F\u0430\u0432\\onedrive\\dokumente\\countdown\\countdowngame\\countdowngame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DB8438-B4C9-4C6B-8F61-34E6CCB0A390}|CountdownGame\\CountdownGame.csproj|solutionrelative:countdowngame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u0430\u0432\\OneDrive\\Dokumente\\Countdown\\CountdownGame\\CountdownGame\\Controllers\\Camera.cs",
+              "RelativeDocumentMoniker": "CountdownGame\\Controllers\\Camera.cs",
+              "ToolTip": "C:\\Users\\\u043F\u0430\u0432\\OneDrive\\Dokumente\\Countdown\\CountdownGame\\CountdownGame\\Controllers\\Camera.cs*",
+              "RelativeToolTip": "CountdownGame\\Controllers\\Camera.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T12:35:54.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u0430\u0432\\OneDrive\\Dokumente\\Countdown\\CountdownGame\\CountdownGame\\Controllers\\EnemyController.cs",
+              "RelativeDocumentMoniker": "CountdownGame\\Controllers\\EnemyController.cs",
+              "ToolTip": "C:\\Users\\\u043F\u0430\u0432\\OneDrive\\Dokumente\\Countdown\\CountdownGame\\CountdownGame\\Controllers\\EnemyController.cs*",
+              "RelativeToolTip": "CountdownGame\\Controllers\\EnemyController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T12:35:45.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u0430\u0432\\OneDrive\\Dokumente\\Countdown\\CountdownGame\\CountdownGame\\Controllers\\PlayerController.cs",
+              "RelativeDocumentMoniker": "CountdownGame\\Controllers\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\\u043F\u0430\u0432\\OneDrive\\Dokumente\\Countdown\\CountdownGame\\CountdownGame\\Controllers\\PlayerController.cs*",
+              "RelativeToolTip": "CountdownGame\\Controllers\\PlayerController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T12:35:32.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameView.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u0430\u0432\\OneDrive\\Dokumente\\Countdown\\CountdownGame\\CountdownGame\\Views\\GameView.cs",
+              "RelativeDocumentMoniker": "CountdownGame\\Views\\GameView.cs",
+              "ToolTip": "C:\\Users\\\u043F\u0430\u0432\\OneDrive\\Dokumente\\Countdown\\CountdownGame\\CountdownGame\\Views\\GameView.cs*",
+              "RelativeToolTip": "CountdownGame\\Views\\GameView.cs*",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T12:34:52.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "World.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u0430\u0432\\OneDrive\\Dokumente\\Countdown\\CountdownGame\\CountdownGame\\Models\\World.cs",
+              "RelativeDocumentMoniker": "CountdownGame\\Models\\World.cs",
+              "ToolTip": "C:\\Users\\\u043F\u0430\u0432\\OneDrive\\Dokumente\\Countdown\\CountdownGame\\CountdownGame\\Models\\World.cs*",
+              "RelativeToolTip": "CountdownGame\\Models\\World.cs*",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAkwEUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T12:33:48.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u0430\u0432\\OneDrive\\Dokumente\\Countdown\\CountdownGame\\CountdownGame\\Models\\Enemy.cs",
+              "RelativeDocumentMoniker": "CountdownGame\\Models\\Enemy.cs",
+              "ToolTip": "C:\\Users\\\u043F\u0430\u0432\\OneDrive\\Dokumente\\Countdown\\CountdownGame\\CountdownGame\\Models\\Enemy.cs*",
+              "RelativeToolTip": "CountdownGame\\Models\\Enemy.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T12:33:37.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u0430\u0432\\OneDrive\\Dokumente\\Countdown\\CountdownGame\\CountdownGame\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "CountdownGame\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\\u043F\u0430\u0432\\OneDrive\\Dokumente\\Countdown\\CountdownGame\\CountdownGame\\Models\\Player.cs*",
+              "RelativeToolTip": "CountdownGame\\Models\\Player.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T12:33:14.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u0430\u0432\\OneDrive\\Dokumente\\Countdown\\CountdownGame\\CountdownGame\\Game1.cs",
+              "RelativeDocumentMoniker": "CountdownGame\\Game1.cs",
+              "ToolTip": "C:\\Users\\\u043F\u0430\u0432\\OneDrive\\Dokumente\\Countdown\\CountdownGame\\CountdownGame\\Game1.cs*",
+              "RelativeToolTip": "CountdownGame\\Game1.cs*",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T16:26:30.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CountdownGame",
+              "DocumentMoniker": "C:\\Users\\\u043F\u0430\u0432\\OneDrive\\Dokumente\\Countdown\\CountdownGame\\CountdownGame\\CountdownGame.csproj",
+              "RelativeDocumentMoniker": "CountdownGame\\CountdownGame.csproj",
+              "ToolTip": "C:\\Users\\\u043F\u0430\u0432\\OneDrive\\Dokumente\\Countdown\\CountdownGame\\CountdownGame\\CountdownGame.csproj*",
+              "RelativeToolTip": "CountdownGame\\CountdownGame.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-17T12:34:12.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u0430\u0432\\OneDrive\\Dokumente\\Countdown\\CountdownGame\\CountdownGame\\Program.cs",
+              "RelativeDocumentMoniker": "CountdownGame\\Program.cs",
+              "ToolTip": "C:\\Users\\\u043F\u0430\u0432\\OneDrive\\Dokumente\\Countdown\\CountdownGame\\CountdownGame\\Program.cs",
+              "RelativeToolTip": "CountdownGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T16:33:51.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
